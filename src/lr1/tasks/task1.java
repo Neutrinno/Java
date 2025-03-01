@@ -16,5 +16,6 @@ public class task1 {
         String surname = in.nextLine();
 
         System.out.printf("Hello, %s %s %s!", last_name, first_name, surname);
+        in.close();
     }
 }

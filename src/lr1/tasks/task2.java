@@ -14,5 +14,6 @@ public class task2 {
 
         System.out.println("Name: " + name);
         System.out.println("Age: " + age);
+        in.close();
     }
 }

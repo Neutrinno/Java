@@ -10,5 +10,6 @@ public class task7 {
 
         int year_of_birthday = 2025 - age;
         System.out.println("Your year of birthday is: " + year_of_birthday);
+        in.close();
     }
 }

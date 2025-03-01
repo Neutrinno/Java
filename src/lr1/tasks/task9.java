@@ -15,5 +15,6 @@ public class task9 {
         double square = Math.sqrt(number_plus + number_minus + number);
 
         System.out.printf("%d %d %d %f \n", number, number_minus, number_plus, square);
+        in.close();
     }
 }

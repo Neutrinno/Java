@@ -16,5 +16,6 @@ public class task8 {
         int sum = first_number + second_number;
 
         System.out.println("The sum is: " + sum);
+        in.close();
     }
 }

@@ -17,5 +17,6 @@ public class task10 {
         int diff = first_number - second_number;
 
         System.out.printf("Sum: %d, diff: %d", sum, diff);
+        in.close();
     }
 }

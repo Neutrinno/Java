@@ -13,5 +13,6 @@ public class task4 {
         int year = in.nextInt();
 
         System.out.printf("%s has %d days \n", month, year);
+        in.close();
     }
 }

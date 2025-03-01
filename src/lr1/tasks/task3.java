@@ -17,5 +17,6 @@ public class task3 {
         int year = in.nextInt();
 
         System.out.printf("Today is %d %s %d \n", day, month, year);
+        in.close();
     }
 }
