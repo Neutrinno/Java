@@ -2,7 +2,7 @@ package lr1.timus;
 
 import java.util.Scanner;
 
-public class task_1209 {
+public class task_2012 {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
 
