@@ -3,7 +3,7 @@ package lr2.tasks.task5;
 public class task5 {
     static class Rectangle {
         private int length;
-        private int width;
+        private final int width;
 
         public Rectangle(int length, int width) {
             this.length = length;
@@ -22,9 +22,6 @@ public class task5 {
             return width;
         }
 
-        public void setWidth(int width) {
-            this.width = width;
-        }
 
         public int getArea() {
             return length * width;
