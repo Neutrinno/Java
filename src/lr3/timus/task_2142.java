@@ -6,7 +6,6 @@ public class task_2142 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        // Чтение входных данных
         long A = scanner.nextLong();
         long B = scanner.nextLong();
         long C = scanner.nextLong();
@@ -15,7 +14,6 @@ public class task_2142 {
         long Y = scanner.nextLong();
         long Z = scanner.nextLong();
 
-        // Проверка условий
         if (A + B + C >= X + Y + Z &&
                 A + C >= X &&
                 B + C >= Y) {
