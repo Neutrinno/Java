@@ -1,4 +1,4 @@
-package lr3.examples;
+package lr3.tasks.task1;
 
 public class example3 {
     private static int step = 0;
