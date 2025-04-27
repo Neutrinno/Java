@@ -1,4 +1,4 @@
-package lr5;
+package lr5.timus;
 
 import java.util.Arrays;
 import java.util.Scanner;
