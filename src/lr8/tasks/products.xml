@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<products>
+            
+    
+    <product>
+                        
+        
+        <name>Молоко</name>
+                        
+        
+        <category>Молочное</category>
+                        
+        
+        <price>90.50</price>
+                        
+        
+        <quantity>2</quantity>
+                    
+    
+    </product>
+            
+    
+    <product>
+                        
+        
+        <name>Хлеб</name>
+                        
+        
+        <category>Выпечка</category>
+                        
+        
+        <price>45.00</price>
+                        
+        
+        <quantity>1</quantity>
+                    
+    
+    </product>
+        
+    
+
+</products>
